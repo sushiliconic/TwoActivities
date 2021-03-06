@@ -1,2 +1,2 @@
-## Task 4
-![](app/src/main/res/drawable/task4.gif)
+## Coding Challenge
+![](app/src/main/res/drawable/coding.gif)
